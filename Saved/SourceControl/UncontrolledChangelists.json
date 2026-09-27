@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/16475/OneDrive/Documents/Unreal Projects/MyProject/Content/Framework/BP_Gamemode.uasset",
+				"C:/Users/16475/OneDrive/Documents/Unreal Projects/MyProject/Content/FirstPerson/Lvl_FirstPerson.umap",
+				"C:/Users/16475/OneDrive/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/Player/BP_FPCharacter.uasset",
+				"C:/Users/16475/OneDrive/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/Player/InputActions/IA_PlayerMove.uasset",
+				"C:/Users/16475/OneDrive/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/Player/InputActions/IA_PlayerLook.uasset",
+				"C:/Users/16475/OneDrive/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/Player/InputActions/IA_PlayerJump.uasset",
+				"C:/Users/16475/OneDrive/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/Player/InputActions/IMC_Player.uasset"
+			]
+		}
+	]
+}
